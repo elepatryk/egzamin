@@ -1,0 +1,23 @@
+patryq@patryq:~/egzamin$ git reflog
+24e5e80 (HEAD) HEAD@{0}: checkout: moving from texts to 24e5e8
+11bbdd6 (tag: v1.1, origin/texts, origin/master, texts) HEAD@{1}: checkout: moving from master to texts
+a8c85bf (tag: v1.0, origin/personal_details, personal_details, master) HEAD@{2}: checkout: moving from b39b2686bf3a54d81ba995d93a62bd28106db14b to master
+b39b268 HEAD@{3}: commit: reflog
+0543b19 HEAD@{4}: commit: deathedHeadBranch
+24e5e80 (HEAD) HEAD@{5}: checkout: moving from texts to 24e5e
+11bbdd6 (tag: v1.1, origin/texts, origin/master, texts) HEAD@{6}: checkout: moving from master to texts
+a8c85bf (tag: v1.0, origin/personal_details, personal_details, master) HEAD@{7}: checkout: moving from texts to master
+11bbdd6 (tag: v1.1, origin/texts, origin/master, texts) HEAD@{8}: commit: Kant rozprawa
+24e5e80 (HEAD) HEAD@{9}: commit: Lorem ipsum
+a8c85bf (tag: v1.0, origin/personal_details, personal_details, master) HEAD@{10}: checkout: moving from master to texts
+a8c85bf (tag: v1.0, origin/personal_details, personal_details, master) HEAD@{11}: Branch: renamed refs/heads/master to refs/heads/master
+a8c85bf (tag: v1.0, origin/personal_details, personal_details, master) HEAD@{13}: checkout: moving from personal_details to master
+a8c85bf (tag: v1.0, origin/personal_details, personal_details, master) HEAD@{14}: checkout: moving from personal_details to personal_details
+a8c85bf (tag: v1.0, origin/personal_details, personal_details, master) HEAD@{15}: commit: E-mail adress
+67622c6 HEAD@{16}: commit: Index number
+fa1faaf HEAD@{17}: commit: First name and last name
+b2def99 HEAD@{18}: Branch: renamed refs/heads/personal_details to refs/heads/personal_details
+b2def99 HEAD@{20}: Branch: renamed refs/heads/main to refs/heads/personal_details
+b2def99 HEAD@{22}: Branch: renamed refs/heads/master to refs/heads/main
+b2def99 HEAD@{24}: commit (amend): personal_details
+1a8d63f HEAD@{25}: commit (initial): personal
